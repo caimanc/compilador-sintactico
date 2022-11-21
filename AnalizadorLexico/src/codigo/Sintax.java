@@ -297,7 +297,7 @@ class CUP$Sintax$actions {
       /* select the action based on the action number */
       switch (CUP$Sintax$act_num)
         {
-          /*. . . . . . . . . . . . . . . . . . . .*/
+         
           case 43: // DECLARACION_FOR ::= Op_incremento Identificador 
             {
               Object RESULT =null;
